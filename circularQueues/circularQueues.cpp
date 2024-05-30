@@ -29,4 +29,3 @@ public:
 			REAR = 0;
 		}
 		
-
